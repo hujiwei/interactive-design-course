@@ -3,7 +3,7 @@
 #### ios平台
 ios平台页面布局规范，用一句话概括就是——经典的延续。
 
-![ios平台布局](ios1.png "ios平台布局")
+![ios平台布局](images/ios1.png "ios平台布局")
 
 - 页眉——导航栏：用于实现在应用不同信息层级结构间的导航，有时候也可用于管理当前屏幕内容
 - 页脚——工具栏：用于放置操作当前屏幕中各对象的控件
@@ -15,13 +15,13 @@ android平台页面布局规范，用一句话概括就是——变化与统一�
 ##### android 4.0
 首先看一下android 4.0的页眉——操作栏（Action Bar）
 
-![android平台页眉](android1.png "android平台页眉")
+![android平台页眉](images/android1.png "android平台页眉")
 
 操作栏用于实现app内视图的切换和层级键的导航（返回上层），还会放置一些重要控件
 
 ##### android 5.0
 
-![android Meterial Design](android2.png "android Meterial Design")
+![android Meterial Design](images/android2.png "android Meterial Design")
 
 比较经典的设计模式：抽屉式导航设计模式
 
@@ -29,11 +29,11 @@ android平台页面布局规范，用一句话概括就是——变化与统一�
 
 应用栏在以前的安卓版本中被叫做操作栏，是用来显示应用的标识，应用导航，内容搜索以及其他操作
 
-![页眉——应用栏](android3.png "页眉——应用栏")
+![页眉——应用栏](images/android3.png "页眉——应用栏")
 
 如何添加二级导航：
 
-![二级导航](android4.png "二级导航")
+![二级导航](images/android4.png "二级导航")
 
 # 平台常用控件
 
@@ -41,21 +41,21 @@ android平台页面布局规范，用一句话概括就是——变化与统一�
 
 控制元件，用户通过控件来操作界面状态或设定状态
 
-![ios和android平台控件](kj1.png "ios和android平台控件")
+![ios和android平台控件](images/kj1.png "ios和android平台控件")
 
 #### IOS和Android控件比较
 
 ##### 搜索
-![平台控件比较——搜索](kj2.png "平台控件比较——搜索")
+![平台控件比较——搜索](images/kj2.png "平台控件比较——搜索")
 
 ##### 时间选择器
-![平台控件比较——时间选择器](kj3.png "平台控件比较——时间选择器")
+![平台控件比较——时间选择器](images/kj3.png "平台控件比较——时间选择器")
 
 ##### 滑块控件
-![平台控件比较——滑块控件](kj4.png "平台控件比较——滑块控件")
+![平台控件比较——滑块控件](images/kj4.png "平台控件比较——滑块控件")
 
 ##### 进度读取
-![平台控件比较——进度读取](kj5.png "平台控件比较——进度读取")
+![平台控件比较——进度读取](images/kj5.png "平台控件比较——进度读取")
 
 # 平台常用手势
 
@@ -75,4 +75,4 @@ android平台页面布局规范，用一句话概括就是——变化与统一�
 
 ios平台和android平台对手势操作的应用有什么区别？
 举例：
-![ios平台和android平台手势操作区别](ss.png "ios平台和android平台手势操作区别")
+![ios平台和android平台手势操作区别](images/ss.png "ios平台和android平台手势操作区别")
